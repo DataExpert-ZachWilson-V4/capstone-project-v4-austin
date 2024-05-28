@@ -3,6 +3,8 @@
 Capstone Project Proposal - Harishitha Damerla
 
 Online shopping (Women's Clothing :)
+
+
 In the modern age, online shopping has revolutionized the way we acquire clothing and apparel. With an abundance of virtual storefronts at our fingertips, selecting the perfect platform can be a meticulous task. Navigating through an array of filters to refine our search adds a layer of intricacy to the process. Moreover, delving into numerous pages within each category can consume valuable time and energy.
 
 The vast array of retailers, coupled with the rapid turnover of fast fashion trends, can evoke a sense of overwhelm, leaving shoppers feeling like they might be overlooking something amidst the endless options.
